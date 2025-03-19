@@ -6,7 +6,7 @@ As part of a business performance analysis initiative, I developed a comprehensi
 - <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Orders.csv">Order Dataset</a>
 
 ## Key Responsibilities
- - Extracted, cleaned, and modeled sales data from source using csv.
+ - Extracted, cleaned, and modeled sales data from source using csv files.
  - Built interactive visualizations and charts to display:
  • Total Orders, Sales Quantity, Revenue, and Customer Metrics
  • Sales by Category, Payment Mode, Sub-Category, City, and Top Customers
