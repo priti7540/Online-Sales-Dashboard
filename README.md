@@ -24,3 +24,7 @@ As part of a business performance analysis initiative, I developed a comprehensi
 - perational Efficiency: Helped sales and marketing teams focus on top-performing sub-categories and high-converting cities, leading to targeted campaigns.
 - Data-Driven Planning: Monthly and quarterly trends facilitated future planning and forecasting, minimizing risks during low-performing periods.
 
+##Dashboard
+![Onln sale dashboard](https://github.com/user-attachments/assets/528acea8-33ad-4d64-8fc3-1a0c660adc7a)
+
+
