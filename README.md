@@ -14,4 +14,5 @@ As part of a business performance analysis initiative, I developed a comprehensi
  - Analyzed monthly sales trends to identify peak (March) and low-performing (July) periods.
  - Delivered insights to support strategic decisions like targeting top-performing cities (Indore, Mumbai) and sub-categories (Sarees, Printers).
    
-- Dashboard Interaction <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Onln%20sale%20dashboard.png">View Dashboard</a>
+  ## Dashboard Interaction 
+  <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Onln%20sale%20dashboard.png">View Dashboard</a>
