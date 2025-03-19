@@ -18,13 +18,12 @@ As part of a business performance analysis initiative, I developed a comprehensi
   ## Dashboard Interaction 
   <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Onln%20sale%20dashboard.png">View Dashboard</a>
   
+## Dashboard
+![Onln sale dashboard](https://github.com/user-attachments/assets/528acea8-33ad-4d64-8fc3-1a0c660adc7a)
+
 ## Impact and Business Outcomes
 - Improved Sales Visibility: Business leaders gained a real-time overview of sales, helping prioritize profitable products and cities.
 - Strategic Decision Support: The dashboard identified high-yield categories and underperforming quarters, aiding better budget allocation and promotional strategies.
 - perational Efficiency: Helped sales and marketing teams focus on top-performing sub-categories and high-converting cities, leading to targeted campaigns.
 - Data-Driven Planning: Monthly and quarterly trends facilitated future planning and forecasting, minimizing risks during low-performing periods.
-
-##Dashboard
-![Onln sale dashboard](https://github.com/user-attachments/assets/528acea8-33ad-4d64-8fc3-1a0c660adc7a)
-
 
