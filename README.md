@@ -6,15 +6,15 @@ As part of a business performance analysis initiative, I developed a comprehensi
 - <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Orders.csv">Order Dataset</a>
 
 ## Key Responsibilities
-- 🛒 **Total Orders:** 500 | 📦 **Total Quantity Sold:** 5,627 | 💰 **Total Sales:** 478K | 📈 **Revenue:** 39K | 👥 **Total Customers:** 338
-- 📂 **Sales by Category:** Electronics, Clothing, Furniture — Clothing leads with 36.78% of total sales
-- 💳 **Sales by Payment Mode:** COD (36.39%) is the most preferred mode
-- 🏆 **Top 5 Customers:** Hariv leads with 9.9K sales
-- 🌆 **Top 5 Cities:** Indore ranks highest with 64K sales, followed by Mumbai and Pune
-- 📈 **Sales by Month Trend:** Peak sales observed in **March (85K)**
-- 🗓 **Quarterly Profit/Loss Analysis:** Visualize profit/loss trends across Q1 - Q4
-- 📊 **Top Sub-categories:** Saree and Printers dominate sales volume
-- 🎯 **Interactive Filters:** Analyze data by **Quarter, City, Category**
+- **Total Orders:** 500 | **Total Quantity Sold:** 5,627 | **Total Sales:** 478K | **Revenue:** 39K | **Total Customers:** 338
+- **Sales by Category:** Electronics, Clothing, Furniture — Clothing leads with 36.78% of total sales
+- **Sales by Payment Mode:** COD (36.39%) is the most preferred mode
+- **Top 5 Customers:** Hariv leads with 9.9K sales
+- **Top 5 Cities:** Indore ranks highest with 64K sales, followed by Mumbai and Pune
+- **Sales by Month Trend:** Peak sales observed in **March (85K)**
+- **Quarterly Profit/Loss Analysis:** Visualize profit/loss trends across Q1 - Q4
+- **Top Sub-categories:** Saree and Printers dominate sales volume
+- **Interactive Filters:** Analyze data by **Quarter, City, Category**
 
   ## Dashboard Interaction 
   <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Onln%20sale%20dashboard.png">View Dashboard</a>
