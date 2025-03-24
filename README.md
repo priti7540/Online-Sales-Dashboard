@@ -1,11 +1,11 @@
-# Online Sales Dashboard Design & Data Analysis
-## Project Objective
+# 📊 Online Sales Dashboard Design & Data Analysis
+## 📝 Project Objective
 As part of a business performance analysis initiative, I developed a comprehensive Online Sales Dashboard to provide management with real-time visibility into sales operations. The project aimed to deliver actionable insights, track sales KPIs, and optimize business decisions through data visualization and analysis.
-## Dataset Used
+## 🗂 Dataset Used
 - <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Details.csv">Details Dataset</a>
 - <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Orders.csv">Order Dataset</a>
 
-## Key Responsibilities
+## 📌 Key Responsibilities
 - **Total Orders:** 500 | **Total Quantity Sold:** 5,627 | **Total Sales:** 478K | **Revenue:** 39K | **Total Customers:** 338
 - **Sales by Category:** Electronics, Clothing, Furniture — Clothing leads with 36.78% of total sales
 - **Sales by Payment Mode:** COD (36.39%) is the most preferred mode
@@ -16,19 +16,19 @@ As part of a business performance analysis initiative, I developed a comprehensi
 - **Top Sub-categories:** Saree and Printers dominate sales volume
 - **Interactive Filters:** Analyze data by **Quarter, City, Category**
 
-  ## Dashboard Interaction 
+  ## 📷 Dashboard Interaction 
   <a href="https://github.com/priti7540/Online-Sales-Dashboard/blob/main/Onln%20sale%20dashboard.png">View Dashboard</a>
 
-  ## Impact and Business Outcomes
+  ## 💡Impact and Business Outcomes
 - Improved Sales Visibility: Business leaders gained a real-time overview of sales, helping prioritize profitable products and cities.
 - Strategic Decision Support: The dashboard identified high-yield categories and underperforming quarters, aiding better budget allocation and promotional strategies.
 - perational Efficiency: Helped sales and marketing teams focus on top-performing sub-categories and high-converting cities, leading to targeted campaigns.
 - Data-Driven Planning: Monthly and quarterly trends facilitated future planning and forecasting, minimizing risks during low-performing periods.
 
-## Dashboard Preview
+## 📷 Dashboard Preview
 ![Onln sale dashboard](https://github.com/user-attachments/assets/528acea8-33ad-4d64-8fc3-1a0c660adc7a)
 
-## Key Skills Demonstrated
+## 🧠 Key Skills Demonstrated
 - Data Analysis & Business Intelligence
 - Power BI Dashboard Development
 - DAX Calculations & KPIs
